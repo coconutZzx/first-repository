@@ -1,19 +1,7 @@
-# heading 1
-## heading 2
-### heading 3
+# Welcome to my README.md file!
 
-`//this is a single line of code`
+This file is used in order to help you understand my code.
 
-```
-//multiple lines of code can go here
-for(int i = 0; i < 10; i++){
-	Console.WriteLine(i);
-}
-```
+...
 
-this is a list:
-+ list item 1
-- list item 2
-
-1. list item 1
-2. list item 2
+Sadly I don't know how my code works so like... Good-luck I guess.
